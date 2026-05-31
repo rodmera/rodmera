@@ -10,9 +10,9 @@ I build machines that think, so humans don't have to. Python. FastAPI. AI Agents
 
 </div>
 
-## 🛠 Skills & Technologies
-
 <div align="center">
+
+## 🛠 Skills & Technologies
 
 ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm&theme=zinc) ![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&size=sm&theme=zinc)
 
