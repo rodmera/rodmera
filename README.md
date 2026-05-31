@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Rodrigo Mera R. 👋
+# Hi, I'm Rodrigo 👋
 
 I build machines that think, so humans don't have to. Python. FastAPI. AI Agents - OpenClaw, Hermes, Pi, Claude Code.
 
